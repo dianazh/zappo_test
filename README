@@ -1,0 +1,10 @@
+To run the code, please do the following:
+1. This piece of code is written in Python 2.7
+2. Install the "requests" before you run it
+	How to: 
+		See the "requests" folder? Branch into it and run:
+		python setup.py install
+3. Since the API key provided can't be run, please run the test version to see how it works. 
+COmmand: 
+	python zappo_test.py < testinput > debug.out
+See the result pair in debug.out
